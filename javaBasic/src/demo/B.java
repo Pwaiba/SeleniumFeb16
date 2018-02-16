@@ -14,6 +14,8 @@ public class B {
 		B b = new B();
 		b.date();
 		
+		// Adding Some Comments in B.Jave 
+		
 		}
 
 }
