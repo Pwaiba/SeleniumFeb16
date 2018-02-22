@@ -8,7 +8,6 @@ public class C extends A {
 		C c = new C();
 		c.month();
 	}
-		
 	
 }
 
