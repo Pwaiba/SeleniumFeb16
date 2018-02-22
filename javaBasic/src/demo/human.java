@@ -35,7 +35,5 @@ Rose.printDelails();
 
 }
 
-
-
 }
 
